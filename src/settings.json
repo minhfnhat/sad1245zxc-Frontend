@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation",
+        "title": "Elevate Your Culinary Creations"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation",
+        "title": "Elevate Your Culinary Creations"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation",
+        "title": "Elevate Your Culinary Creations"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation",
+        "title": "Elevate Your Culinary Creations"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation",
+        "title": "Elevate Your Culinary Creations"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation",
+        "title": "Elevate Your Culinary Creations"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation",
+        "title": "Elevate Your Culinary Creations"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation",
+        "title": "Elevate Your Culinary Creations"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation",
+        "title": "Elevate Your Culinary Creations"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Culinary Creations",
+  "subtitle": "Unlock the Art of Cooking with Premium Woks That Combine Tradition and Innovation"
+}
